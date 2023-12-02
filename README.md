@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) app with [fal](https://fal.ai) and [tld
 1. First, you need to add the fal credentials to your environment. The recommended way is to create a `.env.local` file and add the key you obtained from `https://fal.ai/dashboard/keys`:
 
    ```bash
-   FAL_KEY="key_id:key_secret"
+   FAL_KEY=<key_id>:<key_secret>"
    ```
 
 2. Make sure you install the dependencies:
